@@ -92,7 +92,8 @@
     .half-width3 {
         width: 50%;
         margin-left: 150px;
-        margin-top: 40px;
+        margin-top: 26px;
+        
     
     }
 
@@ -226,6 +227,6 @@
 
     .food-network span {
         background: linear-gradient(to right, orange 0%, tomato 100%);
-        
+        -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
     }

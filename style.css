@@ -42,7 +42,7 @@
     }
 
     .bg {
-        background-image: url(images/shapes/Frame\ 57.jpg);
+        background-image: url(images/shapes/7.png);
         height: 550px;
         margin-bottom: 50px;
     }
@@ -91,9 +91,9 @@
 
     .half-width3 {
         width: 50%;
-        margin-left: 200px;
-        margin-top: 47px;
-        margin-bottom: 0px;
+        margin-left: 150px;
+        margin-top: 40px;
+    
     }
 
     .half-width3 img {
@@ -226,6 +226,6 @@
 
     .food-network span {
         background: linear-gradient(to right, orange 0%, tomato 100%);
-        -webkit-background-clip: text;
+        
         -webkit-text-fill-color: transparent;
     }
